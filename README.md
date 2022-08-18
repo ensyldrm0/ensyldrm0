@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/5zkHGrgdd5Hu6DsYuj/giphy.gif" align="right" with ="150" height = "350">
 
-### Hi there , I'm Enes :sunglasses:
+# Hi there , I'm Enes :sunglasses:
 
 ## :arrow_right: Senior Mathematics Engineering Student 
 ## :arrow_right: Intern Mobile Developer
