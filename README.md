@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/5zkHGrgdd5Hu6DsYuj/giphy.gif" align="right" with ="150" height = "350">
+<img src="https://media.giphy.com/media/5zkHGrgdd5Hu6DsYuj/giphy.gif" align="right" with ="100" height = "300">
 
 # Hi there , I'm Enes :sunglasses:
 
