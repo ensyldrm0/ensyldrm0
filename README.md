@@ -2,7 +2,7 @@
 
 ### Hi there , I'm Enes :sunglasses:
 
-## Senior Mathematics Engineering Student || Intern Mobile Developer
+## :arrow_right: Senior Mathematics Engineering Student :arrow_right: Intern Mobile Developer
 
 
 ### Reach out to me
