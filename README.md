@@ -9,7 +9,9 @@
 
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/likedln.svg" alignt="left" />][Linkedln]
+
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" alignt="left" />][Twitter]
+
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" alignt="left" />][Medium]
 
 ### Tech ı use
