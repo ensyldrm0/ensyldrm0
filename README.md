@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/5zkHGrgdd5Hu6DsYuj/giphy.gif" align="right" with ="250" height = "450">
+<img src="https://media.giphy.com/media/5zkHGrgdd5Hu6DsYuj/giphy.gif" align="right" with ="200" height = "400">
 
 ### Hi there , I'm Enes :sunglasses:
 
@@ -7,11 +7,9 @@
 
 
 ### Reach out to me
-
-
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/likedln.svg" alignt="left" />][Linkedln]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" alignt="left" />][Twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" alignt="left" />][Medium]
+[<img  width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][Linkedln]
+[<img  width="30" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" alignt="left" />][Twitter]
+[<img  width="30" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" alignt="left" />][Medium]
 
 ### Tech ı use
 
